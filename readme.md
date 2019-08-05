@@ -1,4 +1,5 @@
 hello word
 new branch
 update the file readme 
-"its a text added in the new branch new branch 1
+"text modified in the trdBranch"
+text added in the file in trd branch
